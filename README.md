@@ -1,0 +1,2 @@
+# toolsdev
+Python scripts associated with scripting for animation class
